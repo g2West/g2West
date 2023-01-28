@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on any project in where my skills are useful.
 - 📫 How to reach me :
 - e-mail : alize1222x@gmail.com
-- instagram paul.alcantara1
+- instagram : paulalc4ntara
 - facebook : Paul Alcántara
 
 <!---
