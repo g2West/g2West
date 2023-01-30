@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @g2West
+- 👋 Hi, I’m Paul
 - 👀 I’m interested in Web Development  
-- 🌱 I’m currently learning Backend programming and anything developing.
+- 🌱 I’m currently learning full stack web development and interested in technologies such as the MERN Stack, Tailwind CSS and anything JavaScript!
 - 💞️ I’m looking to collaborate on any project in where my skills are useful.
 - 📫 How to reach me :
 - e-mail : alize1222x@gmail.com
